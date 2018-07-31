@@ -24,6 +24,7 @@ public class IndexController {
     PoetryRepository poetryRepository;
     @Autowired
     WifeRepository wifeRepository;
+
     @Autowired
     ReaderRepository readerRepository;
 
